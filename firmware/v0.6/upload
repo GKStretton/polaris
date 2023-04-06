@@ -1,0 +1,7 @@
+#!/bin/bash
+set -e
+
+# 4 cores
+make all -j4
+
+st-flash write build/v0.6.bin 0x08000000
