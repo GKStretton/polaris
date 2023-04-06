@@ -1,4 +1,4 @@
-# Polaris - Open-Source Magentoreception Wearable
+# Polaris - The Open-Source Magentoreception Wearable
 
 ## Introduction
 
