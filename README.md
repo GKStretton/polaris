@@ -8,6 +8,12 @@
 
 ## Getting Started
 
+### Installation
+
+- stm32cubemx to modify digital hardware representation.
+- [stlink](https://github.com/stlink-org/stlink/releases) to upload code to mcu.
+- [serialplot](https://github.com/hyOzd/serialplot) for data debugging / visualisation.
+
 ## Customisation
 
 ## Contributing
