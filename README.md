@@ -13,6 +13,13 @@
 - stm32cubemx to modify digital hardware representation.
 - [stlink](https://github.com/stlink-org/stlink/releases) to upload code to mcu.
 - [serialplot](https://github.com/hyOzd/serialplot) for data debugging / visualisation.
+- libraries:
+  - build-essentials
+  - gcc-arm-none-eabi
+
+### VSCode setup
+
+Install Makefile Tools to get ide seeing dependencies properly. Make sure you open the correct sub-project. Like open firmware/v0.6 in vscode, rather than the main directory.
 
 ## Customisation
 
