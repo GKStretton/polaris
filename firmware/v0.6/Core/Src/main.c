@@ -114,7 +114,6 @@ int main(void)
   while (1)
   {
     Polaris_Update(&huart1);
-    uint8_t a = GPIOA;
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

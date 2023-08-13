@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "polaris.h": "c",
+    "util.h": "c"
+  }
+}
